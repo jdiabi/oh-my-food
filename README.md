@@ -14,4 +14,4 @@ Troisième projet de la formation Développeur Frontend de OpenClassrooms. Celui
 
 En suivant le cahier des charges fourni par OC j'ai mis en place le site uniquement en html et CSS (via SASS) sans l'utilisation de framework. 
 
-* Live Site URL: https://jdiabi.github.io/oh-my-food/
+* Live Site URL: https://jdiabi-oh-my-food.vercel.app/
